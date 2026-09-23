@@ -1,7 +1,22 @@
 ---
-title: "farahjstack.github.io"
+title: "Farah Jehan Stack"
+image: "media/headshot.avif"
+toc: false
+about:
+    template: jolla
+    image-shape: rounded
+    image-width: 17em
+    links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/farahstack/
+          target: _blank
+        - text: GitHub
+          href: https://github.com/farahjstack
+          target: _blank
+        - text: Email
+          href: mailto:farahjstack@gmail.com
 ---
 
-This is a Quarto website :)
+Hi there! I'm Farah Stack, a climate justice advocate and environmental data scientist in training at the Bren School at UC Santa Barbara.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m interested in using data to bridge science, policy, and community knowledge—advancing environmental justice, climate resilience, and a healthier planet for people and the places we love.
