@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Farah Jehan Stack"
+  title: "Farah Stack"
   navbar:
     left:
       - href: index.qmd
@@ -14,10 +14,7 @@ website:
 
 format:
   html:
-    theme:
-      light: minty
-      dark: solar
-    css: styles.css
+    theme: styles.scss
     toc: true
     page-layout: full
 

@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+// Colors (define your palette)
+$black-forest: #134611;
+$india-green: #3E8914;
+$medium-jungle: #96E072;
+$light-green: #96E072;
+$frosted-mint: #E8FCCF;
+
+
+// Assign to Quarto Sass variables
+$navbar-bg: $black-forest; // navbar background
+$navbar-fg: $light-green; // navbar text/icons
+$navbar-hl: $frosted-mint; // navbar hover highlight
+$body-bg: $india-green; // page background
+$body-color: $frosted-mint; //page text
+$footer-bg: $frosted-mint; // footer background
+$link-color: $light-green; //hyperlinks
+$code-bg: $frosted-mint; // inline code background
+
+
+/*-- scss:rules --*/
+b1, h2 {
+    letter-spacing: 5px;
+    font-weight: 800;
+}

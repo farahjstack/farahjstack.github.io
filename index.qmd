@@ -1,5 +1,5 @@
 ---
-title: "Farah Jehan Stack"
+title: "Farah Stack"
 image: "media/headshot.avif"
 toc: false
 about:
